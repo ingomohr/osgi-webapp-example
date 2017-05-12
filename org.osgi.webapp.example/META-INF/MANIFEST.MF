@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Osgi Web Sample
+Bundle-SymbolicName: org.osgi.webapp.example;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Ingo Mohr
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: javax.servlet;version="3.1.0",
+ javax.servlet.http;version="3.1.0"

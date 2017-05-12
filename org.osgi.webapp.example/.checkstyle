@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><fileset-config file-format-version="1.2.0" simple-config="true" sync-formatter="false">
+  <fileset check-config-name="CheckStyle Rules EST" enabled="true" local="false" name="all">
+    <file-match-pattern include-pattern="true" match-pattern="."/>
+  </fileset>
+</fileset-config>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.osgi.webapp.example.feature"
+      label="Osgi WebApp Example"
+      version="1.0.0.qualifier"
+      provider-name="Ingo Mohr">
+
+   <plugin
+         id="org.osgi.webapp.example"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
